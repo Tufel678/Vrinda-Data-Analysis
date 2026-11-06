@@ -1,3 +1,4 @@
+<img width="1750" height="924" alt="Vrinda Data Analysis" src="https://github.com/user-attachments/assets/f27d0f62-3d80-4408-b00d-68f41ea4654c" />
 # Vrinda-Store-Data-Analysis
 # Women are more likely to buy compared to men (~65%)
 # Maharashtra, Karnataka and uttar pradehs are the top 3 states (~35%)
